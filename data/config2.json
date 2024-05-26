@@ -1,0 +1,67 @@
+{
+    "name": "CPOM-OLCI",
+    "images": {
+        
+        "path": "{id}.npy"
+        ,
+        "shape": [4865, 4090]
+    },
+    "segmentation": {
+	"path": "{id}/mask2.png",
+	"mask_encoding": "rgb",
+	"mask_area": [3600, 2000, 4700, 4090],
+	"score": "f1",
+	"unverified_threshold": 1,
+	"test_images": null
+    },
+    "classes": [
+      {
+        "name": "Background",
+        "description": "...",
+        "colour": [255,0,0,70]
+      },
+      {
+        "name": "Ocean",
+        "description": "...",
+        "colour": [255,255,0,70],
+        "user_colour": [255,255,0,70]
+      },
+      {
+        "name": "Cloud",
+        "description": "...",
+        "colour": [0,255,255,70],
+        "user_colour": [0,255,255,70]
+      }
+
+    ],
+    "views": {
+        
+        "combo1": {
+            "description": ".",
+            "type": "image",
+            "data": ["$B1","$B2","$B3"]
+        },
+        "combo2": {
+            "description": ".",
+            "type": "image",
+            "data": ["$B1","$B10","$B20"]
+        },
+        "combo3": {
+            "description": "Normal RGB image.",
+            "type": "image",
+            "data": ["$B15","$B18","$B21"]
+        },
+        "RGB": {
+            "description": "Normal RGB image.",
+            "type": "image",
+            "data": ["$B4","$B3","$B2"]
+        }
+
+    },
+    "view_groups": {
+        "default": ["combo1","combo2"],
+        "radar": ["combo3", "RGB"]
+    }
+  
+  }
+  
