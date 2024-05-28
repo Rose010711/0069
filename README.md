@@ -1,6 +1,6 @@
 ## Introduction
 
-For this finall project, the aim is to explore the Sentinel-3 that understanding the classfication of clouds and ocean,by using artificial intelligence (AI) and IRIS techologies. This study will evaluate the benifits and limitations in Earth surface observation through comparing the differences in classification images produced by 4 kinds of models, such as CNN, Kmeans, VIT, RF.
+For this finall project, the aim is to explore and understand the classification of Earth surface by using IRIS and artificial intelligence (AI) techologies. In this syudy, focus on the classfication for clouds and ocean in the Arctic, while the data set from Sentinel-3 provided. It will evaluate the benifits and limitations of 4 different models using for Earth surface observation, through comparing the differences in 4 kinds of predicted images, such as CNN, Kmeans, VIT, RF.
 
 Alos, here is a short video help you quickly understand. link: https://www.youtube.com/watch?v=SYf3Wx9GW8w
 
