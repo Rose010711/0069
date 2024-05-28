@@ -579,7 +579,8 @@ weighted avg       0.95      0.94      0.94   2273544
   <em>Linear_regression Predict Result</em>
 </p>
 
-![image](https://github.com/Rose010711/0069/assets/161240176/e8ecae16-3c4f-4d30-bbe4-7358c40144f9)
+![image](https://github.com/Rose010711/0069/assets/161240176/08929635-7ca2-4647-bfa6-b9687c1e8e66)
+
 
 ## Explainable AI
 implementation code
