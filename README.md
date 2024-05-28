@@ -7,8 +7,14 @@ Alos, here is a short video help you quickly understanding. link: https://www.yo
 ## Review
 
 What is Satellite, <img width="936" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/3cfe63bf-1a45-4170-8e1d-9aa39fb5c5e1">
+
 what general pricinples it use, <img width="762" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/4a9fe27f-f95e-4888-9fbd-1a4d9ba84896">
-21 bands ability information, and they are now widely use in the earth observation <img width="550" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/967ad11d-dd91-4133-b090-7e8008d54ea0"> <img width="524" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/dd2eab07-03d1-46c0-92b1-5d1434562621"> <img width="316" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/0bbfe3c8-4a9b-499a-98d7-e10dbd2efb24">
+
+21 bands ability information, and they are now widely use in the earth observation <img width="550" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/967ad11d-dd91-4133-b090-7e8008d54ea0"> 
+
+how widely use <img width="524" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/dd2eab07-03d1-46c0-92b1-5d1434562621"> 
+<img width="316" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/0bbfe3c8-4a9b-499a-98d7-e10dbd2efb24">
+
 for classfication: <img width="498" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/07752494-866a-4546-b6ad-bed392664aac"> Diagram for cloud screening and snow classification (Sánchez-Zapero et al., 2023)
 
 
