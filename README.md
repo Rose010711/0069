@@ -37,7 +37,7 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 
 ![image](https://github.com/Rose010711/0069/assets/161240176/a68c8b61-d5bd-455a-9d9f-cd6f94bca897)
 
-```
+
 ## Read data from Google Drive
 
 The snippet is used in a Google Colab environment to interact with Google Drive. It starts by importing the drive module from google.colab and then mounts the user's Google Drive to the path /content/drive in the Colab environment, making the Drive's contents accessible. The os module is then imported to provide functions for interacting with the operating system.
