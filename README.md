@@ -1,3 +1,9 @@
+## Introduction
+
+For this finall project, the aim is to explore the Sentinel-3 that understanding the classfication of clouds and ocean,by using artificial intelligence (AI) and IRIS techologies. This study will evaluate the benifits and limitations in Earth surface observation through comparing the differences in classification images produced by 4 kinds of models, such as CNN, Kmeans, VIT, RF.
+
+Alos, here is a short video help you quickly understanding.
+
 ## Read data from Google Drive
 
 The snippet is used in a Google Colab environment to interact with Google Drive. It starts by importing the drive module from google.colab and then mounts the user's Google Drive to the path /content/drive in the Colab environment, making the Drive's contents accessible. The os module is then imported to provide functions for interacting with the operating system.
