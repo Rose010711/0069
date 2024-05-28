@@ -2,7 +2,7 @@
 
 For this finall project, the aim is to explore the Sentinel-3 that understanding the classfication of clouds and ocean,by using artificial intelligence (AI) and IRIS techologies. This study will evaluate the benifits and limitations in Earth surface observation through comparing the differences in classification images produced by 4 kinds of models, such as CNN, Kmeans, VIT, RF.
 
-Alos, here is a short video help you quickly understanding. link: https://www.youtube.com/watch?v=SYf3Wx9GW8w
+Alos, here is a short video help you quickly understand. link: https://www.youtube.com/watch?v=SYf3Wx9GW8w
 
 ## Quick Review
 
@@ -23,7 +23,7 @@ how widely use:
 <img width="524" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/dd2eab07-03d1-46c0-92b1-5d1434562621"> 
 <img width="316" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/0bbfe3c8-4a9b-499a-98d7-e10dbd2efb24">
 
-for classfication: 
+for classfication: an example for understanding the procedure
 
 <img width="498" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/07752494-866a-4546-b6ad-bed392664aac"> 
 
@@ -37,6 +37,9 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 
 ![image](https://github.com/Rose010711/0069/assets/161240176/a68c8b61-d5bd-455a-9d9f-cd6f94bca897)
 
+## Methods
+
+1. 
 
 ## Read data from Google Drive
 
