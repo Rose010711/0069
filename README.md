@@ -4,7 +4,7 @@ For this finall project, the aim is to explore the Sentinel-3 that understanding
 
 Alos, here is a short video help you quickly understanding. link: https://www.youtube.com/watch?v=SYf3Wx9GW8w
 
-## Review
+## Quick Review
 
 What is Satellite:
 
@@ -29,8 +29,10 @@ for classfication:
 
 Diagram for cloud screening and snow classification (Sánchez-Zapero et al., 2023)
 
+## Now comes to the data collection
 
-
+here are links
+and you will get the figure below from Sentinel-3's data set, that covering predominantly oceanic and the land, the uncertainty
 
 ## Read data from Google Drive
 
