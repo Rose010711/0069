@@ -45,7 +45,7 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 ### 4. Model training 
 ### 5. Model evaluation and inference
 ### 6. Explainable AI
-
+Get more specific information on video~
 
 ## Read data from Google Drive
 
