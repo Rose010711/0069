@@ -4,6 +4,11 @@ For this finall project, the aim is to explore the Sentinel-3 that understanding
 
 Alos, here is a short video help you quickly understanding.
 
+## Review
+
+What is Satellite, <img width="936" alt="image" src="https://github.com/Rose010711/0069/assets/161240176/3cfe63bf-1a45-4170-8e1d-9aa39fb5c5e1">
+
+
 ## Read data from Google Drive
 
 The snippet is used in a Google Colab environment to interact with Google Drive. It starts by importing the drive module from google.colab and then mounts the user's Google Drive to the path /content/drive in the Colab environment, making the Drive's contents accessible. The os module is then imported to provide functions for interacting with the operating system.
