@@ -376,7 +376,7 @@ del cnn
 gc.collect()
 ```
 
-## Random Forest and Logistic Regression
+## Random Forest 
 
 Use scikit-learn to generate the trainer and joblib to serialize python objects to save the model.
 
@@ -391,6 +391,7 @@ X_reshaped = np.reshape(X_train, (X_train.shape[0], -1))
 rf.fit(X_reshaped, y_train)
 joblib.dump(rf, "random_forest_model.tf")
 ```
+## Logistic Regression
 
 ```
 # Initialise the model with n_estimators specifying the number of trees in the forest
