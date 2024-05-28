@@ -39,12 +39,12 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 
 ## Methods
 
-1. Data preparation and loding
-2. Convert the data format
-3. Model training preparation
-4. Model training 
-5. Model evaluation and inference
-6. Explainable AI
+### 1. Data preparation and loading
+### 2. Convert the data format
+### 3. Model training preparation
+### 4. Model training 
+### 5. Model evaluation and inference
+### 6. Explainable AI
 
 
 ## Read data from Google Drive
