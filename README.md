@@ -39,7 +39,16 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 
 ## Methods
 
-1. 
+1. Data preparation and loding
+2. Convert the data format
+3. Model training preparation
+4. Model training 
+5. Model evaluation and inference
+6. Explainable AI
+
+
+![image](https://github.com/Rose010711/0069/assets/161240176/8fe29781-0f92-4f4a-bd40-15162d54e9f3)
+
 
 ## Read data from Google Drive
 
