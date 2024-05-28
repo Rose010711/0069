@@ -47,9 +47,6 @@ and you will get the figure below from Sentinel-3's data set, that covering pred
 6. Explainable AI
 
 
-![image](https://github.com/Rose010711/0069/assets/161240176/8fe29781-0f92-4f4a-bd40-15162d54e9f3)
-
-
 ## Read data from Google Drive
 
 The snippet is used in a Google Colab environment to interact with Google Drive. It starts by importing the drive module from google.colab and then mounts the user's Google Drive to the path /content/drive in the Colab environment, making the Drive's contents accessible. The os module is then imported to provide functions for interacting with the operating system.
