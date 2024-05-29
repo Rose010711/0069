@@ -2,7 +2,7 @@
 
 For this finall project, the aim is to explore and understand the classification of Earth surface by using IRIS and artificial intelligence (AI) techologies. In this study, focus on the classfication for clouds and ocean in the Arctic, while the data set from Sentinel-3 provided. It will evaluate the benifits and limitations of 4 different models using for Earth surface observation, through comparing the differences in 4 kinds of predicted images, such as Convolutional Neural Network (CNN), Vision Transformer (VIT), Random Forest (RF) and Logistic Regression (LR).
 
-Alos, here is a short video help you quickly understand. link: https://www.youtube.com/watch?v=SYf3Wx9GW8w
+Alos, here is a short video help you quickly understand. link: https://youtu.be/mNS9N4Tk2vs?si=_1DbgXguouYrA72N
 
 ## Quick Review
 
